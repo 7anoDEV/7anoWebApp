@@ -5,5 +5,3 @@ Aplicativo multiplataforma da turma do 7° Ano, para se manter informado com as 
 
 https://www.microsoft.com/store/productId/9NHHZNM592MT
 
-
-Nota: sobre a versão UWP, planejamos mudar no futuro de PWA oficial para controle WebView XAML, no modelo do meu app do Twitter. 
